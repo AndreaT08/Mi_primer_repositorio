@@ -48,6 +48,13 @@ class Cuenta {
         
     }
 }
+class Banco{
+    String nombre;
+    String direccion;
+    public void Saludar(){
+       System.out.println("Buenas Tardes...");
+    }
+    }
 class Clientes extends persona{
     int numero;
     Clientes(String nombres, int edad, String apellidos, boolean genero, char sexo){
