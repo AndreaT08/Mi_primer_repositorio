@@ -20,20 +20,20 @@ class Persona implements Sentimiento {
         this.sexo=sexo;
     }
     public void correr(){
-        System.out.println("Estor corriendo...");
+        System.out.println("HAHAHAHAHAHAHAHAHAHAHA");
         
     }
     
     public void hablar(){
-        System.out.println("Estoy hablando...");
+        System.out.println("HAHAHAHAHAHAHAHAHAHAHA");
     }
     @Override 
     public void amar(){
-        System.out.println("Estoy amando con todo el alma...");
+        System.out.println("HAHAHAHAHAHAHAHAHAHAHA");
     }
     @Override
     public void odiar(){
-        System.out.println("Estoy odiando con todo mi ser...");
+        System.out.println("HAHAHAHAHAHAHAHAHAHAH");
     }}
 
 
